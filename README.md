@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
+  <img src="https://grafolio.ogq.me/project/럭키딥/5020c526a4a34882b4cfe81c25d643ee" height="200"/>
 </p>
 
 <h1 align="center">

@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" />
+  https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hello!&descAlignY=30&descAlign=20&section=header&reversal=true&animation=fadeIn
+  
 </p>
 
 <h1 align="center">

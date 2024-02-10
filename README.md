@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.ejiltalk.org/wp-content/uploads/2021/03/pexels-photo-110854.jpeg" height="800" width=300/>
+  <img src="https://www.ejiltalk.org/wp-content/uploads/2021/03/pexels-photo-110854.jpeg" height="300" width=800/>
 </p>
 
 <h1 align="center">

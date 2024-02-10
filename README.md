@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" />
+  
  <img src=" https://github.com/smrithi3/smrithi3/assets/116055089/ed2f80ce-515e-4310-86a1-73088be0d841.png"/>
 
 </p>

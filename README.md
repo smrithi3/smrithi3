@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://grafolio.ogq.me/project/럭키딥/5020c526a4a34882b4cfe81c25d643ee" height="200"/>
+  <img src="https://pixabay.com/photos/aurora-northern-lights-1197753/" height="200"/>
 </p>
 
 <h1 align="center">

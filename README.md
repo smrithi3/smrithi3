@@ -1,6 +1,6 @@
 <p align="center">
   
- <img src="https://miro.medium.com/v2/resize:fit:2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" />
+ <img src="https://miro.medium.com/v2/resize:fit:2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" /> 
 
 </p>
 

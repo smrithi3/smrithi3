@@ -1,5 +1,5 @@
 <p align="center">
- <img  https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20world!&fontAlign=50&fontColor=FFFFFF&descAlign=58&descAlignY=100&fontSize=70 />
+ <img  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20world!&fontAlign=50&fontColor=FFFFFF&descAlign=58&descAlignY=100&fontSize=70" />
 
 
  <img src="https://miro.medium.com/v2/resize:fit:2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" /> 

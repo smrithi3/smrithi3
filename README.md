@@ -18,7 +18,7 @@
 
 - 🎓 CS AIML Engineering undergraduate student.
 
-- :telescope: Intellectually exploring planet Earth.
+- :telescope: I love reading about astrophysics and space exploration.
 
 - :mailbox: How to reach me:
   <div id="badges">

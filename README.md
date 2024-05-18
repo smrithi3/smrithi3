@@ -22,7 +22,7 @@
 
 - :mailbox: How to reach me:
   <div id="badges">
-  <a href="www.linkedin.com/in/smrithi-ramesh-887850228">
+  <a href="https://www.linkedin.com/in/smrithi-ramesh-887850228/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:smrithiramesh22@gmail.com">
